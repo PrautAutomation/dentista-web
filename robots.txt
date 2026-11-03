@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prautautomation.github.io/dentista-web/sitemap.xml
+Sitemap: https://dentalacademyas.cz/sitemap.xml
